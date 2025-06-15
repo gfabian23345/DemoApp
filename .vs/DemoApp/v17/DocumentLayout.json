@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|c:\\users\\gfabian\\source\\repos\\demoapp\\demoapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFF44541-9108-49EA-8092-1C5B011DB0EA}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\LICENSE",
+              "RelativeDocumentMoniker": "DemoApp\\LICENSE",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\LICENSE",
+              "RelativeToolTip": "DemoApp\\LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T13:38:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\.gitignore",
+              "RelativeDocumentMoniker": "DemoApp\\.gitignore",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\.gitignore",
+              "RelativeToolTip": "DemoApp\\.gitignore",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T13:34:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\README.md",
+              "RelativeDocumentMoniker": "DemoApp\\README.md",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\README.md",
+              "RelativeToolTip": "DemoApp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-14T13:32:30.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeToolTip": "DemoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:25:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashBoardForm.cs",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "DemoApp\\DashBoardForm.cs",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\DashBoardForm.cs",
+              "RelativeToolTip": "DemoApp\\DashBoardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:25:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DemoApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\LoginForm.cs",
+              "RelativeToolTip": "DemoApp\\LoginForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:24:14.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\DashBoardForm.cs",
+              "RelativeDocumentMoniker": "DemoApp\\DashBoardForm.cs",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\DashBoardForm.cs [Design]",
+              "RelativeToolTip": "DemoApp\\DashBoardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:20:54.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DemoApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\gfabian\\source\\repos\\DemoApp\\DemoApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "DemoApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:13:55.198Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
