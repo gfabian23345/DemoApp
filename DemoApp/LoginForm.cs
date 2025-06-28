@@ -19,7 +19,10 @@ namespace DemoApp
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if (!string.IsNullOrWhiteSpace(txtUsername.Text))
+            string username = txtUsername.Text.Trim();
+            string password = txtPassword.Text.Trim();
+
+            if (username == "testuser" && password == "123456")
             {
                 DashBoardForm dashboard = new DashBoardForm();
                 dashboard.Show();
@@ -27,8 +30,14 @@ namespace DemoApp
             }
             else
             {
-                MessageBox.Show("Please enter a username.", "Login Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                lblError.Text = "Invalid username or password";
+                lblError.Visible = true;
             }
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

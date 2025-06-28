@@ -15,6 +15,7 @@ namespace DemoApp
         public DashBoardForm()
         {
             InitializeComponent();
+            this.FormClosed += DashboardForm_FormClosed;
         }
 
         private void btnSubmit_Click(object sender, EventArgs e)
@@ -22,5 +23,10 @@ namespace DemoApp
             string message = $"Hello {txtName.Text}, you entered: {txtInput.Text}";
             MessageBox.Show(message, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+        private void DashboardForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
     }
 }
