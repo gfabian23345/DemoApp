@@ -1,0 +1,46 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET temp files
+*.Cache
+*.bak
+
+# JetBrains Rider
+.idea/
+
+# Windows crash dumps
+*.dmp
+
+# Publish outputs
+publish/
+*.publish.xml
+
+# Logs
+*.log
+
+# Other IDE-specific or local config files
+*.swp
+*.tmp
+
+# Python virtual environments (if any exist in project folder)
+venv/
+.env/
