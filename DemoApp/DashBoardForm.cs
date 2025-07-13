@@ -12,11 +12,12 @@ namespace DemoApp
 {
     public partial class DashBoardForm : Form
     {
-        public DashBoardForm()
+        public DashBoardForm(string username)
         {
             InitializeComponent();
-            this.FormClosed += DashboardForm_FormClosed;
+            lblWelcome.Text = $"Welcome, {username}!";
         }
+
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {

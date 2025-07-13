@@ -24,7 +24,7 @@ namespace DemoApp
 
             if (username == "testuser" && password == "123456")
             {
-                DashBoardForm dashboard = new DashBoardForm();
+                DashBoardForm dashboard = new DashBoardForm(txtUsername.Text);
                 dashboard.Show();
                 this.Hide();
             }
